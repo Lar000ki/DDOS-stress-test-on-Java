@@ -1,0 +1,1 @@
+A Java application designed for testing websites. Allows you to send a large number of GET, POST, PUT, DELETE requests to the site.
